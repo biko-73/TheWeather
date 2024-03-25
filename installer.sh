@@ -8,7 +8,7 @@
 MY_IPK_PY2="enigma2-plugin-extensions-theweather_V2.4_r3_all.ipk"
 MY_IPK_PY3="enigma2-plugin-extensions-theweather_V2.4_r3_all.ipk"
 
-MY_DEB_PY2="enigma2-plugin-extensions-theweather-v2.4-r3-all_v1.0_all.deb"
+MY_DEB_PY2="enigma2-plugin-extensions-theweather_V2.4_r3_all.deb"
 MY_DEB_PY3=""
 
 PACKAGE_DIR='TheWeather/main'
