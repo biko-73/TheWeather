@@ -6,9 +6,9 @@
 ##############################################################################################################
 
 MY_IPK_PY2="enigma2-plugin-extensions-theweather_V2.4_r3_all.ipk"
-MY_IPK_PY3="enigma2-plugin-extensions-theweather-py2-py3_2.4_r3_all.ipk"
+MY_IPK_PY3="enigma2-plugin-extensions-theweather_5.0.1_all.ipk"
 
-MY_DEB_PY2="enigma2-plugin-extensions-theweather_V2.4_r3_all.deb"
+MY_DEB_PY2="enigma2-plugin-extensions-theweather_5.0.1_all.deb"
 MY_DEB_PY3=""
 
 PACKAGE_DIR='TheWeather/main'
